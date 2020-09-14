@@ -26,12 +26,19 @@ Test package for generating docs from param.Parameterized classes
 Features
 --------
 
-* TODO
+This an example project of how to customize sphinx autodoc generation from param.Parameterized classes. The aim is to generate docs which are informative for users of the web application, where components are by ``param.Parameterized subclass`` 'controllers'. 
+Numpydoc style docstrings are assumed for normal (non ``Parameterized``) classes, which is supressed for ``Parameterized`` classes.
+
+
+
 
 Credits
 -------
+The code for formatting docstrings is based on Pyviz' nbsite paramdoc_ 
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
+.. _paramdoc: https://github.com/pyviz-dev/nbsite/blob/master/nbsite/paramdoc.py
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+ 
