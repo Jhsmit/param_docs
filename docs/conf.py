@@ -62,7 +62,6 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.viewcode',
     'numpydoc',
-    'nbsphinx'
   #  'sphinxcontrib.bibtex'
 ]
 
