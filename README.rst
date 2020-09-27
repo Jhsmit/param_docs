@@ -4,13 +4,13 @@ param_docs
 
 
 .. image:: https://img.shields.io/pypi/v/param_docs.svg
-        :target: https://pypi.python.org/pypi/param_docs
+        :target: https://pypi.python.org/pypi/param_doc
 
 .. image:: https://img.shields.io/travis/Jhsmit/param_docs.svg
         :target: https://travis-ci.com/Jhsmit/param_docs
 
-.. image:: https://readthedocs.org/projects/param-docs/badge/?version=latest
-        :target: https://param-docs.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/param-doc/badge/?version=latest
+        :target: https://param-doc.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
@@ -20,7 +20,7 @@ Test package for generating docs from param.Parameterized classes
 
 
 * Free software: MIT license
-* Documentation: https://param-docs.readthedocs.io.
+* Documentation: https://param-doc.readthedocs.io.
 
 
 Features
