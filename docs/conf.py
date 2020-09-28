@@ -45,7 +45,7 @@ import numpydoc
 #         #del lines[:]
 #         lines += ['..', DEDUPLICATION_TAG]
 
-latex_engine = 'xelatex'
+# latex_engine = 'xelatex'
 autodoc_member_order = 'bysource'
 
 
